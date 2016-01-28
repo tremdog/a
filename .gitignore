@@ -1,1 +1,6 @@
-k
+.sublime-*
+npm-debug.log
+/.publish
+/.build
+/.idea
+/node_modules
